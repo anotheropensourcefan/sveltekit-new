@@ -1,6 +1,6 @@
 <svelte:head>
-	<title>Home</title>
-	<meta name="description" content="Svelte demo app" />
+	<title>Pomo d'oro</title>
+	<meta name="description" content="Zen&productive" />
 </svelte:head>
 
 <style>
